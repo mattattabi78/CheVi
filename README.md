@@ -4,5 +4,5 @@ Model architecture.
 
 
 <p align="center">
-  <img src="assets/figure/Model architecture.png" width="700">
+  <img src="CheVi/asset/figure/Model architecture.png" width="700">
 </p>
