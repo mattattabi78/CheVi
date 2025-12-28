@@ -3,4 +3,4 @@ Semi-hand craft ViT model.
 Model architecture.
 
 
-![Method overview](asset/figure/Model architecture.png)
+![Model architecture.](https://github.com/mattattabi78/CheVi/blob/main/asset/figure/Model%20architecture.png)
